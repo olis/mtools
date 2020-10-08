@@ -1,0 +1,19 @@
+{
+  "name": "mtools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olis/mtools.git"
+  },
+  "author": "Oliver Schemmel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olis/mtools/issues"
+  },
+  "homepage": "https://github.com/olis/mtools#readme"
+}
